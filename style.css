@@ -1,0 +1,55 @@
+
+.button{
+    color: white;
+    background-color: black;
+    padding: 6px 12px;
+    border-radius: 10px;
+}
+p{
+    color: dimgray;
+}
+h3{
+    font-size: 18px;
+    color: black;
+    font-weight: 700;
+}
+.ph-1, .ph-2, .ph-3{
+    padding: 30px;
+
+} 
+.mackbook-pro{
+    margin-top: 100px;
+    padding: 80px;
+}
+.left-margin{
+    margin-left: 100px;
+}
+.top-banner img{
+    width: 80%;
+}
+#see-all{
+    color: orange;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.pale-order img{
+    width: 100%;
+}
+.cat-bag, .cat-per, .cat-shoe{
+    margin: 10px;
+    padding: 5px;
+    border-radius: 15px;
+}
+
+.cat-bag img{
+    width: 60%;
+}
+.cat-per img{
+    width: 60%;
+}
+.cat-shoe {
+    width: 50%;
+}
